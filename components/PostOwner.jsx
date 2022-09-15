@@ -13,7 +13,7 @@ export default function PostOwner(props) {
         style={{ objectFit: "cover" }}
       />
       <span className="fw-semibold fs-5 text-white">
-        Thadthon Prechamanasart
+        Thadthon Prechamanasart 620610789
       </span>
     </div>
     <span className="text-white">
